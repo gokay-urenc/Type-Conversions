@@ -1,0 +1,14 @@
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Tip_Donusumleri\Tip_Donusumleri\bin\Debug\Tip_Donusumleri.exe.config
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Tip_Donusumleri\Tip_Donusumleri\bin\Debug\Tip_Donusumleri.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Tip_Donusumleri\Tip_Donusumleri\bin\Debug\Tip_Donusumleri.pdb
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Tip_Donusumleri\Tip_Donusumleri\obj\Debug\Tip_Donusumleri.csprojResolveAssemblyReference.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Tip_Donusumleri\Tip_Donusumleri\obj\Debug\Tip_Donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Tip_Donusumleri\Tip_Donusumleri\obj\Debug\Tip_Donusumleri.exe
+C:\Users\hamitgokay.urenc\Desktop\Notlar ve Uygulamalar\Uygulamalar\Tip_Donusumleri\Tip_Donusumleri\obj\Debug\Tip_Donusumleri.pdb
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Tip_Donusumleri\Tip_Donusumleri\bin\Debug\Tip_Donusumleri.exe.config
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Tip_Donusumleri\Tip_Donusumleri\bin\Debug\Tip_Donusumleri.exe
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Tip_Donusumleri\Tip_Donusumleri\bin\Debug\Tip_Donusumleri.pdb
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Tip_Donusumleri\Tip_Donusumleri\obj\Debug\Tip_Donusumleri.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Tip_Donusumleri\Tip_Donusumleri\obj\Debug\Tip_Donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Tip_Donusumleri\Tip_Donusumleri\obj\Debug\Tip_Donusumleri.exe
+C:\Users\casper\Desktop\Files\Applications\Console Applications\Tip_Donusumleri\Tip_Donusumleri\obj\Debug\Tip_Donusumleri.pdb
